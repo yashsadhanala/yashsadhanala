@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
-- 📫 How to reach me: Email - saiyaswanth.sadhanala@gmail.com
 - 😄 Fun fact: I can complete a season over night!!
 
 
