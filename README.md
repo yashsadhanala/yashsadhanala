@@ -36,6 +36,7 @@ Student at NIT AGARTALA! 👋
 [<img align="left" alt="codeSTACKr | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 <br />
 ### Languages and Tools:
+[<img align="left" alt="Python " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Vs-code]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -67,3 +68,4 @@ Student at NIT AGARTALA! 👋
 [Github]: https://github.com/yashsadhanala
 [HackerRank]: https://www.hackerrank.com/saiyaswanth_sad1
 [leetcode]:https://leetcode.com/user4925Qz/
+[Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
