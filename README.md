@@ -73,4 +73,4 @@
 [HackerRank]: https://www.hackerrank.com/saiyaswanth_sad1
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[gmail]: https://mail.google.com/mail/u/0/
+[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
