@@ -50,8 +50,11 @@
 
 <br />
 <br />
-###  Mystats
+
+### Mystats
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<br />
 
 [twitter]: https://twitter.com/yashu59965703
 [instagram]: https://www.instagram.com/__sai_yaswanth__/
