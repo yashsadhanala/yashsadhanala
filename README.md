@@ -15,7 +15,7 @@
 ### Hola, I'm SADHANALA SAI YASWANTH! 👋
 
 ### Student at NIT AGARTALA! 👋
-<br>
+<br/>
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Full Stack Development
@@ -50,7 +50,7 @@
 
 <br />
 <br />
-### Mystats
+###  Mystats
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [twitter]: https://twitter.com/yashu59965703
