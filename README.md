@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 ### Hola, I'm SADHANALA SAI YASWANTH! 👋
 
-### Student at NIT AGARTALA! 👋
+### Student at NIT AGARTALA! ⚡
 <br/>
 
 - 🔭 I’m currently working on Web Development
@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
 - 📫 How to reach me: Email - saiyaswanth.sadhanala@gmail.com
-- ⚡ Fun fact: I can complete a season over night!!
+- 😄 Fun fact: I can complete a season over night!!
 
 
 ### Spotify Playing 🎧
