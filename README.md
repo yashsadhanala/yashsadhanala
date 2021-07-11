@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
 - 📫 How to reach me: Email - saiyaswanth.sadhanala@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Resume:- {https://drive.google.com/file/d/1YHLnZ9dOr_GGF3RpOiTRRhYPlQSGG-3H/view?usp=sharing}
 - ⚡ Fun fact: I can complete a season over night!!
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
@@ -23,6 +23,7 @@
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
 - 😄 Fun fact: I can complete a season over night!!
+[<img align="left" alt="codeSTACKr | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />][resume]
 
 <hr/>
 
@@ -38,6 +39,7 @@
 [<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][HackerRank]
 [<img align="left" alt="codeSTACKr | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />][resume]
 <br />
 
 
@@ -80,3 +82,4 @@
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
+[Resume]: https://drive.google.com/file/d/1YHLnZ9dOr_GGF3RpOiTRRhYPlQSGG-3H/view?usp=sharing
