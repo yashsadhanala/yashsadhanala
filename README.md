@@ -23,6 +23,9 @@
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
 - 😄 Fun fact: I can complete a season over night!!
+- 📫 [Resume]
+
+
 [<img align="left" alt="codeSTACKr | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />][resume]
 
 <hr/>
@@ -39,7 +42,6 @@
 [<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][HackerRank]
 [<img align="left" alt="codeSTACKr | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />][resume]
 <br />
 
 
