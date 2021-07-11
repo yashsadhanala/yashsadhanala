@@ -15,7 +15,7 @@
 ### Hola, I'm SADHANALA SAI YASWANTH! 👋
 
 ### Student at NIT AGARTALA! ⚡
-<br/>
+<hr/>
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Full Stack Development
