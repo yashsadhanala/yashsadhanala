@@ -25,9 +25,6 @@
 - 😄 Fun fact: I can complete a season over night!!
 - 📫 [Resume]
 
-
-[<img align="left" alt="codeSTACKr | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/resume.svg" />][resume]
-
 <hr/>
 
 ### Spotify Playing 🎧
