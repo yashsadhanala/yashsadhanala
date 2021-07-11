@@ -24,6 +24,7 @@
 - 💬 Ask me about Tech and Space
 - 😄 Fun fact: I can complete a season over night!!
 
+<hr/>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/collection/tracks)
