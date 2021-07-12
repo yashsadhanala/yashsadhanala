@@ -80,5 +80,5 @@
 [HackerRank]: https://www.hackerrank.com/saiyaswanth_sad1
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
+[gmail]: mailto:saiyaswanth.sadhanala@gmail.com
 [Resume]: https://www.overleaf.com/read/dbzpvmpbyjwp
