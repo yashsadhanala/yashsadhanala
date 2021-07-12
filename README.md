@@ -81,4 +81,4 @@
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
-[Resume]: https://drive.google.com/file/d/1YHLnZ9dOr_GGF3RpOiTRRhYPlQSGG-3H/view?usp=sharing
+[Resume]: https://www.overleaf.com/read/dbzpvmpbyjwp
