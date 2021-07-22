@@ -18,6 +18,11 @@
 <hr/>
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 
+
+<br>
+<br>
+
+
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🌱 I’m currently learning Machine Learning
