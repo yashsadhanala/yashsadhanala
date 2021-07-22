@@ -26,6 +26,9 @@
 - 😄 Fun fact: I can complete a season over night!!
 - 📫 [Resume]
 
+<br>
+<br>
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/collection/tracks)
@@ -58,8 +61,7 @@
 <br />
 <br />
 
-### Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitdolu&show_icons=true&locale=en&layout=compact" alt="harshitdolu" /></p>
+
 ### Mystats
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
