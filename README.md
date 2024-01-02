@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Tech related stuff
 - 💬 Ask me about Tech and Space
 - 📫 How to reach me: Email - saiyaswanth.sadhanala@gmail.com
-- 😄 Resume:- {https://drive.google.com/file/d/1YHLnZ9dOr_GGF3RpOiTRRhYPlQSGG-3H/view?usp=sharing}
+- 😄 Resume:- {https://drive.google.com/file/d/1vRX4SrNAdg2NmHC4pTokvG3vrwNHaY6m/view?usp=drive_link}
 - ⚡ Fun fact: I can complete a season overnight!!
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
@@ -27,7 +27,7 @@
 - 🔭 I’m currently working as a Backend Engineer in Java, Springboot, and SQL.
 - 👯 I’m looking to collaborate on Full Stack Development as I have great insight into HTML & Bootstrap.
 - 🌱 I’m currently learning advanced Microservices.
-- 🤔 I’m looking for help with Tech related stuff.
+- 🤔 I’m looking for help with tech-related stuff.
 - 💬 Ask me about Tech and Space.
 - 😄 Fun fact: I can complete a season overnight!!
 - 📫 [Resume]
@@ -92,4 +92,4 @@
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [gmail]: mailto:saiyaswanth.sadhanala@gmail.com
-[Resume]: https://www.overleaf.com/read/dbzpvmpbyjwp
+[Resume]: https://drive.google.com/file/d/1vRX4SrNAdg2NmHC4pTokvG3vrwNHaY6m/view?usp=drive_link
