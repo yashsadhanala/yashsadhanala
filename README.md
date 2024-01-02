@@ -9,12 +9,13 @@
 - 💬 Ask me about Tech and Space
 - 📫 How to reach me: Email - saiyaswanth.sadhanala@gmail.com
 - 😄 Resume:- {https://drive.google.com/file/d/1YHLnZ9dOr_GGF3RpOiTRRhYPlQSGG-3H/view?usp=sharing}
-- ⚡ Fun fact: I can complete a season over night!!
+- ⚡ Fun fact: I can complete a season overnight!!
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashsadhanala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
-### Hola, I'm SADHANALA SAI YASWANTH! 👋
+### Hola, I'm SADHANALA SAI YASWANTH! 👋 
+### Software Engineer at Paytm ⚡
+### Student from NIT AGARTALA! ⚡
 
-### Student at NIT AGARTALA! ⚡
 <hr/>
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 
@@ -23,12 +24,12 @@
 
 
 
-- 🔭 I’m currently working on Web Development
-- 👯 I’m looking to collaborate on Full Stack Development
-- 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Tech related stuff
-- 💬 Ask me about Tech and Space
-- 😄 Fun fact: I can complete a season over night!!
+- 🔭 I’m currently working as a Backend Engineer in Java, Springboot, and SQL.
+- 👯 I’m looking to collaborate on Full Stack Development as I have great insight into HTML & Bootstrap.
+- 🌱 I’m currently learning advanced Microservices.
+- 🤔 I’m looking for help with Tech related stuff.
+- 💬 Ask me about Tech and Space.
+- 😄 Fun fact: I can complete a season overnight!!
 - 📫 [Resume]
 
 <br>
