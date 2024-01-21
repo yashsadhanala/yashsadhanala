@@ -92,4 +92,4 @@
 [leetcode]:https://leetcode.com/user4925Qz/
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [gmail]: mailto:saiyaswanth.sadhanala@gmail.com
-[Resume]: https://drive.google.com/file/d/1vRX4SrNAdg2NmHC4pTokvG3vrwNHaY6m/view?usp=drive_link
+[Resume]: https://drive.google.com/file/d/16RJr5a8367u7BAizbU5GX6efMwMwSyvV/view?usp=drive_link
